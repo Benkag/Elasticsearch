@@ -33,7 +33,7 @@ The parallel file generator demonstrated how multiple threads can efficiently di
 
 This assignment illustrates the importance of parallel computing in processing large volumes of data commonly found in real-world systems, such as server monitoring, cybersecurity analysis, and big data applications. The results affirm that parallel algorithms play a crucial role in improving efficiency and scalability, especially in environments with multi-core processors.
 
-##✅ System Architecture Diagram
+## ✅ System Architecture Diagram
                    +-----------------------------+
                    |         User / Admin        |
                    +--------------+--------------+
@@ -76,7 +76,7 @@ This assignment illustrates the importance of parallel computing in processing l
                  +-------------------------------------+
 
 
-##✅ Flowchart – Program 1 (Log Generator)
+## ✅ Flowchart – Program 1 (Log Generator)
          +------------------------+
          | Start Program 1       |
          +----------+-------------+
@@ -117,7 +117,7 @@ This assignment illustrates the importance of parallel computing in processing l
         | Print “Log creation done”    |
         +------------------------------+
 
-##✅ Flowchart – Program 2 (Parallel Log Search)
+## ✅ Flowchart – Program 2 (Parallel Log Search)
             +---------------------------+
             | Start Program 2          |
             +------------+--------------+
