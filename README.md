@@ -180,6 +180,17 @@ This assignment illustrates the importance of parallel computing in processing l
 <img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/3fb4a480-cbc6-48d4-9175-ec8040467eb3" />
 
 
+## SearchUI
+<img width="788" height="491" alt="image" src="https://github.com/user-attachments/assets/159e05d4-db62-4453-b71c-5aa0b86ab626" />
+
+Open Folder
+<img width="507" height="355" alt="image" src="https://github.com/user-attachments/assets/cffb704a-3299-4f60-acdc-ff2e706a4ceb" />
+
+
+<img width="782" height="490" alt="image" src="https://github.com/user-attachments/assets/7acebeae-e12c-441d-9f4b-85340d21d092" />
+
+
+
 
 
 
