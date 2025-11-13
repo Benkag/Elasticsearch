@@ -168,11 +168,15 @@ This assignment illustrates the importance of parallel computing in processing l
 -Parallel Log Generator-
 
 <img width="1374" height="495" alt="image" src="https://github.com/user-attachments/assets/5e501d71-e772-44c7-8e2e-95653edadb8c" />
+
+
 <img width="609" height="869" alt="image" src="https://github.com/user-attachments/assets/8d143124-afa6-42fb-9374-f1ed482af430" />
 
 
 -Log Search-
 <img width="1374" height="558" alt="image" src="https://github.com/user-attachments/assets/5d48203a-1815-45cd-b435-89870db87baf" />
+
+
 <img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/3fb4a480-cbc6-48d4-9175-ec8040467eb3" />
 
 
